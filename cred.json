@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "Yuvanth": {
+        "password": "a43c27c2babefd68df8a694900f30a1c",
+        "bank_no": "2721020408",
+        "bank_id": "customer_21@",
+        "cvv": "123",
+        "amount": 10000
+      }
+    },
+    {
+      "name": {
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "bank_no": "6114738636",
+        "bank_id": "customer_72@",
+        "cvv": "322",
+        "amount": 0
+      }
+    },
+    {
+      "Jimmy": {
+        "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+        "bank_no": "4545621576",
+        "bank_id": "customer_39@",
+        "cvv": "823",
+        "amount": 0
+      }
+    }
+  ]
+}
